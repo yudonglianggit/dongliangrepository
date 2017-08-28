@@ -1,7 +1,0 @@
-com\simple\model\User.class
-com\simple\Application.class
-com\simple\model\AbstractEntity.class
-com\simple\controller\UserController.class
-com\simple\service\impl\UserServiceImpl.class
-com\simple\dao\UserMapper.class
-com\simple\service\IUserService.class
